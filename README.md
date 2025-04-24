@@ -27,7 +27,7 @@ Because fuck you, that's why.
 You’ll need:
 - Python 3.x
 - [Qiskit](https://qiskit.org/) (install with `pip install qiskit`)
-- A *quantum simulator* OR a fuckton of money and some time on a quantum computer.
+- A quantum simulator OR a fuckton of money and some time on a quantum computer.
 
 ---
 
